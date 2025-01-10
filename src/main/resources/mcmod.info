@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ai learning",
+  "name": "ai learning bot",
+  "description": "Checks your stats in a similar format as lilith did",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["7wlr"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
